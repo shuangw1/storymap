@@ -16,7 +16,7 @@
 | coordinates | locational      |    vector |
 | maptiles    | reference     | raster |
 
-<img src="Capture.JPG" width='600'>
+<img src="img/Capture.JPG" width='600'>
 
 ## Map Design
 <p> I choose correspondense base map design, zoom level, locations based on the study site I surveyed. </p>
