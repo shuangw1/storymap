@@ -1,4 +1,4 @@
-# Linpan Landscape Resilience - During Covid19
+# Linpan Landscape Resilience - During Covid-19
 
 ## Project Description
 <p>This is a web map of my research project "Socio-ecological resilience of Linpan landscape in Chengdu Plain". </p>
