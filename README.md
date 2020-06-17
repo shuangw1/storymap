@@ -19,7 +19,7 @@
 <img src="assets/Capture.JPG" width='600'>
 
 ## Map Design
-<p> I choose correspondense base map design, zoom level, locations based on the study site I surveyed. </p>
+<p> This Map follwos a story telling structure, by combining mapd and narratives. I choose correspondense base map style, zoom level, locations based on the study site I surveyed. </p>
 
 
 ## Acknowledgement
